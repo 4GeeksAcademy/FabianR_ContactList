@@ -1,0 +1,35 @@
+.contact-card {
+    background-color: white;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.contact-card img {
+    width: 50px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.contact-card h5 {
+    margin-bottom: 5px;
+}
+
+.contact-info p {
+    margin: 0;
+    color: #6c757d;
+}
+
+.action-icons svg {
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+.form-group label {
+    font-weight: bold;
+}
+
+.btn-block {
+    width: 100%;
+}
